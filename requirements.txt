@@ -8,4 +8,6 @@ xgboost
 dill
 Flask
 setuptools
--e .
+catboost
+xgboost
+# -e .
